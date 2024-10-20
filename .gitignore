@@ -1,0 +1,14 @@
+# Ignore specific directories and their contents
+# Datasets
+CheckThat/
+nlp4if-2021_en/
+fact_check_insights/
+.ipynb_checkpoints/
+
+
+saved_model/
+new_data/
+_bash/
+
+# Ignore specific files
+config.ini
